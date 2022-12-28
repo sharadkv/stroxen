@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stroxen
 - 👀 I’m interested in fun things :) 
-- 🌱 I’m currently learning CSS3
+- 🌱 I’m currently learning Web Development 💻
 - 💞️ I’m looking to collaborate in some cool projects in future! 
 - 📫 How to reach me stroxendev@proton.me
 
